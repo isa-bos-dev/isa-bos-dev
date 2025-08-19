@@ -16,6 +16,6 @@ También me interesa la inteligencia artificial, Python y la ciencia de datos.
 
 - 😄 **Pronombres:** Ella / La.  
 
-- ⚡ **Dato:** Estoy finalizando mi Ingeniería de Software y me apasiona aprender constantemente, explorando diversas tecnologías sin limitarme a una sola especialidad.  
+- ⚡ **Dato:** Recientemente he finalizado mi Ingeniería de Software y me apasiona aprender constantemente, explorando diversas tecnologías sin limitarme a una sola especialidad.  
 
 
