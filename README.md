@@ -1,4 +1,4 @@
-## About me [![Spanish Version](https://img.shields.io/badge/Versión-Español-blue)](#-Acerca-de-mi)
+# About me [![Spanish Version](https://img.shields.io/badge/Versión-Español-blue)](#-Acerca-de-mi)
 
 👩‍💻 **Isa Bosquet – Fullstack Developer | Computer Engineer | Continuous Learner**
 
@@ -42,7 +42,7 @@ Recently completed my **Bachelor in Computer Engineering**, passionate about con
 
 ---
 
-## Acerca de mi [![English Version](https://img.shields.io/badge/Version-English-blue)](#-About-me)
+# Acerca de mi [![English Version](https://img.shields.io/badge/Version-English-blue)](#-About-me)
 
 👩‍💻 **Isa Bosquet – Desarrolladora Fullstack | Ingeniera Informática | Aprendizaje Continuo**
 
