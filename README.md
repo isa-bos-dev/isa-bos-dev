@@ -27,7 +27,7 @@ I am open to contribute to **fullstack projects** including:
 
 👩‍💻 **Isa Bosquet – Desarrolladora Fullstack | Ingeniera Informática | Aprendizaje Continuo**
 
-Soy una **Ingeniera Informática** recién graduada con sólidos conocimientos en **desarrollo fullstack**, apasionada por diseñar e implementar aplicaciones escalables, seguras y mantenibles. Actualmente estoy cursando el **Máster en Ciberseguridad y Privacidad** en la UOC, mientras sigo explorando tecnologías avanzadas de backend y frontend.  
+Soy una **Ingeniera Informática** con sólidos conocimientos en **desarrollo fullstack**, apasionada por diseñar e implementar aplicaciones escalables, seguras y mantenibles. Actualmente estoy cursando el **Máster en Ciberseguridad y Privacidad** en la UOC, mientras sigo explorando tecnologías avanzadas de backend y frontend.  
 
 ### 🔧 Habilidades y Tecnologías
 - **Backend:** Java (Spring Boot, JPA), Python (Django), PHP (Laravel)  
