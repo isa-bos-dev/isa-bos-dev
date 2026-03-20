@@ -3,7 +3,7 @@
 
 👩‍💻 **Isa Bosquet – Fullstack Developer | Computer Engineer | Continuous Learner**
 
-I’m a recently graduated **Computer Engineer** with strong skills in **fullstack development**, passionate about designing and implementing scalable, secure, and maintainable applications. Currently enhancing my knowledge with a **Master in Cybersecurity and Privacy** at UOC, while continuing to explore advanced backend and frontend technologies.  
+I’m a graduated **Computer Engineer** with strong skills in **fullstack development**, passionate about designing and implementing scalable, secure, and maintainable applications. Currently enhancing my knowledge with a **Master in Cybersecurity and Privacy** at UOC, while continuing to explore advanced backend and frontend technologies.  
 
 ### 🔧 Skills & Technologies
 - **Backend:** Java (Spring Boot, JPA), Python (Django), PHP (Laravel)  
