@@ -10,7 +10,7 @@ Passionate about building scalable architectures, distributed systems, and secur
 * **Backend & Data Architecture:** Java (Spring Boot, JPA), C# (.NET), TypeScript, JavaScript, Python (Django), PHP (Laravel), C, Apache Kafka, Node.js, REST APIs, Maven
 * **Frontend & UI:** React, Angular, Vue.js, Vite, HTML5, CSS3, Tailwind CSS, Shadcn/UI, Bootstrap
 * **Cloud & DevOps:** AWS, Google Cloud, Docker, CI/CD pipelines, SonarQube, Bash, Linux
-* **Cybersecurity & Data:** PostgreSQL, MySQL, Secure Coding, AppSec, Data Protection
+* **Data & Cybersecurity:** PostgreSQL, MySQL, SQLServer, Secure Coding, AppSec, Data Protection
 * **AI & Workflows:** Prompt Engineering, LLMs (Gemini, Claude, ChatGPT), AI Agents, Claude Code
 * **Methodologies & Tools:** Git, Agile (Scrum, Kanban), Postman, Swagger UI, Figma
 
