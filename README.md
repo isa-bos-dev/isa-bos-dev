@@ -55,7 +55,7 @@ Especializada en el diseño e implementación de sistemas distribuidos, arquitec
 * **Backend y Arquitectura:** Java (Spring Boot, JPA), C# (.NET), TypeScript, JavaScript, Python (Django), PHP (Laravel), C, Apache Kafka, Node.js, APIs REST, Maven
 * **Frontend y UI:** React, Vue.js, Vite, HTML5, CSS3, Tailwind CSS, Shadcn/UI, Bootstrap
 * **Cloud y DevOps:** AWS, Google Cloud, Docker, pipelines CI/CD, SonarQube, Bash, Linux
-* **Ciberseguridad y Datos:** PostgreSQL, MySQL, codificación segura, protección de datos, AppSec
+* **Datos y Ciberseguridad:** PostgreSQL, MySQL, SQLServer, codificación segura, protección de datos, AppSec
 * **Inteligencia Artificial:** LLMs (Gemini, Claude, ChatGPT), Prompt Engineering, Agentes de IA, Claude Code
 * **Metodologías y Herramientas:** Git, Agile (Scrum, Kanban), Postman, Swagger UI, Figma
 
